@@ -64,7 +64,6 @@ def real_time_precipitation_updates():
         # Adding delay to give a updating data impression
         time.sleep(1)
 
-
 # Run the real-time precipitation updates
 real_time_precipitation_updates()
 
